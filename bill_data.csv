@@ -1,0 +1,765 @@
+﻿id,name,bill_type,account_id,member_id,account_book_id,category_id,money,icon,icon_fontFamily,note,transfer_to_id,extdata,task_id,fecha
+1,transporte,1,1,1,1,34,5.0,31,cute-color,Home ed,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704171600000
+2,familia,1,1,1,1,35,12.0,48,cute-color,netflix,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704171600000
+3,basedata.communication,1,1,1,1,18,5.0,35,cute-color,spotify,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704171600000
+4,inversion,1,1,1,1,33,30.0,341,cute-color,método hit/lacra,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704171600000
+5,inversion,1,1,1,1,33,3.0,341,cute-color,método pedidos,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704322480770
+7,transporte,1,1,1,1,34,4.0,31,cute-color,bus angie,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704322562605
+8,alimentos,1,1,1,1,36,8.0,97,cute-color,picarones x2,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704329858234
+9,transporte,1,1,1,1,34,14.2,31,cute-color,ger back home,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704258000000
+10,atom store,2,1,1,1,37,35.0,245,cute-color,foco smart,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704383313907
+12,familia,1,1,1,1,35,12.3,48,cute-color,recibos casa,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704394096111
+13,inversion,1,1,1,1,33,124.0,341,cute-color,aliexpress me,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704401139523
+14,inversion,1,1,1,1,33,9.0,341,cute-color,metodos,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704344400000
+15,transporte,1,1,1,1,34,14.4,31,cute-color,bus wk,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704344400000
+16,alimentos,1,1,1,1,36,6.0,97,cute-color,lonche emoliente + panes ,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704344400000
+17,basedata.wage,2,1,1,1,28,64.25,48,cute-color,wk didi,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704487230043
+18,entretenimiento,1,1,1,1,32,48.0,66,cute-color,machine learning sharp god,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1704430800000
+19,transporte,1,1,1,1,34,13.0,31,cute-color,comas neko,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704430800000
+20,neko,1,1,1,1,38,8.0,354,cute-color,papel+pastilla neko,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704430800000
+21,neko,1,1,1,1,38,15.0,354,cute-color,jugos,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704430800000
+22,neko,1,1,1,1,38,3.0,354,cute-color,piqueos,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704430800000
+23,transporte,1,1,1,1,34,5.0,31,cute-color,wk,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704517200000
+24,alimentos,1,1,1,1,36,35.0,97,cute-color,frituras,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704517200000
+25,transporte,1,1,1,1,34,7.0,31,cute-color,bus home,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704603600000
+26,basedata.medical,1,1,1,1,22,6.0,39,cute-color,amoxicilinas,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704603600000
+27,neko,1,1,1,1,38,9.0,354,cute-color,pastillas,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704690000000
+28,neko,1,1,1,1,38,3.0,354,cute-color,pastillas colicos,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704603600000
+29,familia,1,1,1,1,35,4.0,48,cute-color,marcianos,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704690000000
+30,familia,1,1,1,1,35,17.0,48,cute-color,papitas alitas bbq,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704690000000
+31,basedata.gift,1,1,1,1,17,20.0,34,cute-color,regale Jorge perea,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704690000000
+32,basedata.gift,1,1,1,1,17,10.0,34,cute-color,preste anderson,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704690000000
+33,entretenimiento,1,1,1,1,32,65.0,66,cute-color,shntl,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704776400000
+34,transporte,1,1,1,1,34,1.5,31,cute-color,bus,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704862800000
+35,neko,1,1,1,1,38,17.5,354,cute-color,helado pinkberry,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704862800000
+36,neko,1,1,1,1,38,16.5,354,cute-color,cineplanet,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704862800000
+37,neko,1,1,1,1,38,43.0,354,cute-color,cancha cine,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704862800000
+38,alimentos,1,1,1,1,36,2.0,97,cute-color,pan con lomo,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704862800000
+39,neko,1,1,1,1,38,3.5,354,cute-color,agua,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704862800000
+40,basedata.gift,1,1,1,1,17,0.0,34,cute-color,pinguinos ,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704862800000
+41,transporte,1,1,1,1,34,14.5,31,cute-color,,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704862800000
+42,entretenimiento,1,1,1,1,32,16.0,66,cute-color,machine learning bad,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1704949200000
+43,basedata.communication,1,1,1,1,18,32.9,35,cute-color,entel,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1706894918435
+44,familia,1,1,1,1,35,12.0,48,cute-color,netflix,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1706910328570
+45,transporte,1,1,1,1,34,32.0,31,cute-color,wk,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1706910355874
+46,Kia atom,1,1,1,1,39,60.0,116,cute-color,gasolina,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1706914116492
+47,basedata.dress,1,1,1,1,19,30.0,36,cute-color,Polo camisero negro,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1706986173466
+48,basedata.dress,1,1,1,1,19,110.0,36,cute-color,zapatos botines beige,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1706986195941
+49,basedata.dress,1,1,1,1,19,6.0,36,cute-color,cochera hueco ,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1706986321201
+50,basedata.beautify,1,1,1,1,21,10.0,38,cute-color,corte,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1706936400000
+51,alimentos,1,1,1,1,36,29.5,97,cute-color,rachi,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1706936400000
+52,entretenimiento,1,1,1,1,32,20.0,66,cute-color,Bad ,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1706936400000
+53,basedata.recreation,1,1,1,1,20,40.0,37,cute-color,entrada eucaliptos ,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1707022800000
+54,basedata.gift,1,1,1,1,17,3.0,34,cute-color,pastilla liz,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1707022800000
+55,alimentos,1,1,1,1,36,59.0,97,cute-color,comida paseo,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1707022800000
+56,neko,1,1,1,1,38,40.0,354,cute-color,polo gengar,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1707022800000
+57,basedata.dress,1,1,1,1,19,0.0,36,cute-color,polo camisero azul marino,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1707022800000
+58,alimentos,1,1,1,1,36,13.0,97,cute-color,almuerzo fortel,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1707109200000
+59,transporte,1,1,1,1,34,1.5,31,cute-color,pasaje get back,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1707109200000
+60,neko,1,1,1,1,38,5.0,354,cute-color,marcianos,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1707109200000
+61,transporte,1,1,1,1,34,10.5,31,cute-color,ir promusic,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1707195600000
+62,alimentos,1,1,1,1,36,50.0,97,cute-color,almuerzo marino,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1707195600000
+63,neko,1,1,1,1,38,20.0,354,cute-color,cremolada x4,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1707195600000
+64,transporte,1,1,1,1,34,4.0,31,cute-color,get back home,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1707195600000
+65,basedata.medical,1,1,1,1,22,2.5,39,cute-color,vitapirena ,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1707195600000
+66,basedata.dress,1,1,1,1,19,106.0,36,cute-color,polos camiseros: plomo vino negro,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1707282000000
+67,neko,1,1,1,1,38,110.0,354,cute-color,ventilador ,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1707359728405
+68,transporte,1,1,1,1,34,8.0,31,cute-color,cochera,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1707359761466
+69,alimentos,1,1,1,1,36,1.0,97,cute-color,pancitos,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1707359784553
+70,basedata.medical,1,1,1,1,22,3.0,39,cute-color,pastilla gripe,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1707359800434
+71,Kia atom,1,1,1,1,39,16.4,116,cute-color,gnv,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1707359835089
+72,entretenimiento,1,1,1,1,32,12.0,66,cute-color,bus hua,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1709269200000
+73,familia,1,1,1,1,35,1.5,48,cute-color,,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1709269200000
+74,familia,1,1,1,1,35,12.0,48,cute-color,Netflix,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1709269200000
+75,basedata.tax,1,1,1,1,23,50.0,24,cute-color,jordan pague deuda,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1709421080303
+76,basedata.gift,1,1,1,1,17,77.9,34,cute-color,babyshower pañales ed + di 20,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1709429253937
+77,neko,1,1,1,1,38,12.3,354,cute-color,taxi comas - casa,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1709430077536
+78,basedata.communication,1,1,1,1,18,32.9,35,cute-color,entel,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1709435854335
+79,transporte,1,1,1,1,34,6.0,31,cute-color,taxi ed-home,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1709450637763
+80,neko,1,1,1,1,38,3.0,354,cute-color,regale yape,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1709512250838
+81,basedata.social,1,1,1,1,15,48.0,32,cute-color,entradas retama x tods,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1709512289740
+82,basedata.gift,1,1,1,1,17,10.0,34,cute-color,pollo brasa- liz,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1709512394935
+83,entretenimiento,1,1,1,1,32,47.0,66,cute-color,3.5 2 35 3 2 1.5 huac,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1709528400000
+84,familia,1,1,1,1,35,7.5,48,cute-color,emoliente x3,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1711602000000
+85,basedata.social,1,1,1,1,15,55.0,32,cute-color,sillas 15 + vino 20 + fogata 20,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1711688400000
+86,basedata.social,1,1,1,1,15,44.0,32,cute-color,comida x2,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1711602000000
+87,basedata.social,1,1,1,1,15,100.0,32,cute-color,flotador 20 + comida 80,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1711763410846
+88,basedata.social,1,1,1,1,15,10.0,32,cute-color,emolientes x5,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1711763462272
+89,basedata.social,1,1,1,1,15,30.0,32,cute-color,hs,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1711763505943
+90,basedata.social,1,1,1,1,15,20.0,32,cute-color,desayuno ,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1711819210957
+91,basedata.social,1,1,1,1,15,20.0,32,cute-color,gnv brx,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1711819225610
+92,basedata.social,1,1,1,1,15,14.0,32,cute-color,fruta viaje,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1711827599458
+93,basedata.gift,1,1,1,1,17,30.0,34,cute-color,torta mama,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717035161117
+94,deudas,1,1,1,1,23,30.0,24,cute-color,pague pipi,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717035445282
+95,deudas,1,1,1,1,23,80.0,24,cute-color,pague dumer,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717035470576
+96,basedata.communication,1,1,1,1,18,32.9,35,cute-color,entel,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717035709032
+97,basedata.dress,1,1,1,1,19,191.2,36,cute-color,zapatillas adidas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717043566887
+98,basedata.gift,1,1,1,1,17,100.0,34,cute-color,chito carrion,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717076677147
+99,Kia atom,1,1,1,1,39,480.0,116,cute-color,carro manto ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717118589253
+100,transporte,1,1,1,1,34,10.0,31,cute-color,metropolitano,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717118655163
+101,alimentos,1,1,1,1,36,10.0,97,cute-color,almuerzo,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717118673357
+102,transporte,1,1,1,1,34,2.0,31,cute-color,bus,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717118691047
+103,deudas,1,1,1,1,23,1270.0,24,cute-color,Saga Falabella,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717045200000
+104,alimentos,1,1,1,1,36,10.0,97,cute-color,almuerzo ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717131600000
+105,neko,1,1,1,1,38,20.0,354,cute-color,regalo,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717182500305
+106,basedata.gift,1,1,1,1,17,100.0,34,cute-color,mama,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717182518932
+107,basedata.gift,1,1,1,1,17,80.0,34,cute-color,liz,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717205889679
+108,basedata.gift,1,1,1,1,17,20.0,34,cute-color,Anderson ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717212835041
+109,Kia atom,1,1,1,1,39,260.0,116,cute-color,pastilla - disco ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717259143490
+110,neko,1,1,1,1,38,20.0,354,cute-color,taxi Home 3am,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717371415808
+111,basedata.dress,1,1,1,1,19,10.0,36,cute-color,corte,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717371426684
+112,transporte,1,1,1,1,34,8.0,31,cute-color,metropolitano ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717457384464
+113,alimentos,1,1,1,1,36,10.0,97,cute-color,almuerzo ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717457401688
+114,transporte,1,1,1,1,34,2.0,31,cute-color,work,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717457428855
+115,basedata.dress,1,1,1,1,19,16.0,36,cute-color,polo,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717304400000
+116,alimentos,1,1,1,1,36,14.0,97,cute-color,yogurt ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717304400000
+117,neko,1,1,1,1,38,66.0,354,cute-color,tottus,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717304400000
+118,Kia atom,1,1,1,1,39,2.0,116,cute-color,cochera,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717304400000
+119,alimentos,1,1,1,1,36,4.0,97,cute-color,pan,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717460604188
+120,neko,1,1,1,1,38,20.0,354,cute-color,regalo ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717460620577
+121,alimentos,1,1,1,1,36,10.0,97,cute-color,almuerzo ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717477200000
+122,transporte,1,1,1,1,34,1.0,31,cute-color,bus,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717477200000
+123,alimentos,1,1,1,1,36,3.5,97,cute-color,canchita,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717477200000
+124,prestamos,1,1,1,1,40,60.0,194,cute-color,preste Anderson ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717632090027
+125,transporte,1,1,1,1,34,1.0,31,cute-color,bus,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717632184456
+126,alimentos,1,1,1,1,36,10.0,97,cute-color,almuerzo ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717632199157
+127,Kia atom,1,1,1,1,39,50.0,116,cute-color,gasolina,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717304400000
+128,entretenimiento,1,1,1,1,32,65.0,66,cute-color,call of duty - sharp,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717650000000
+129,basedata.diet,1,1,1,1,12,30.0,29,cute-color,KFC vuelto,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717304400000
+131,neko,1,1,1,1,38,30.0,354,cute-color,KFC vuelto,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717736400000
+132,prestamos,1,1,1,1,40,200.0,194,cute-color,liz,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717780419765
+133,basedata.dress,1,1,1,1,19,34.0,36,cute-color,cafarenas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717784781014
+134,basedata.dress,1,1,1,1,19,35.0,36,cute-color,pantalón negro,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717784796218
+135,neko,1,1,1,1,38,223.0,354,cute-color,regale ropa,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1717784806728
+136,deudas,1,1,1,1,23,3.0,24,cute-color,page bryan,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719810000000
+137,deudas,1,1,1,1,23,80.0,24,cute-color,pague pipi,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719810000000
+138,neko,1,1,1,1,38,850.0,354,cute-color,cuarto,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719810000000
+139,basedata.gift,1,1,1,1,17,17.5,34,cute-color,regalo jefe ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719810000000
+140,basedata.gift,1,1,1,1,17,167.5,34,cute-color,chito carrion,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719810000000
+141,basedata.education,1,1,1,1,24,25.7,40,cute-color,chat gpt,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719810000000
+142,inversion,1,1,1,1,33,173.0,341,cute-color,cambio dolares,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719810000000
+143,neko,1,1,1,1,38,50.0,354,cute-color,laceado,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719810000000
+144,transporte,1,1,1,1,34,12.8,31,cute-color,taxi home,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719810000000
+145,transporte,1,1,1,1,34,3.0,31,cute-color,go neko,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719810000000
+146,Apuestas,1,1,1,1,16,35.0,320,cute-color,matrícula apuesta,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719810000000
+147,neko,1,1,1,1,38,110.5,354,cute-color,metro,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719810000000
+148,neko,1,1,1,1,38,40.0,354,cute-color,crema cara,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719810000000
+149,deudas,1,1,1,1,23,150.0,24,cute-color,pague mama,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719810000000
+150,Apuestas,1,1,1,1,16,12.0,320,cute-color,apuestas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719810000000
+151,prestamos,1,1,1,1,40,200.0,194,cute-color,prestamo liz,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719810000000
+152,neko,1,1,1,1,38,10.0,354,cute-color,focos,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719810000000
+153,prestamos,1,1,1,1,40,50.0,194,cute-color,Anderson ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719810000000
+154,neko,1,1,1,1,38,8.0,354,cute-color,helado,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719810000000
+155,basedata.gift,1,1,1,1,17,8.0,34,cute-color,pizza,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719810000000
+156,basedata.dress,1,1,1,1,19,48.0,36,cute-color,cuadro goku,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719810000000
+157,neko,1,1,1,1,38,4.0,354,cute-color,comicos,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719810000000
+158,Apuestas,1,1,1,1,16,2.5,320,cute-color,apuesta,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719810000000
+159,neko,1,1,1,1,38,200.0,354,cute-color,regale ropa,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719877045558
+160,transporte,1,1,1,1,34,20.0,31,cute-color,metropolitano ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719877057035
+161,transporte,1,1,1,1,34,2.0,31,cute-color,bus,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719877067377
+162,alimentos,1,1,1,1,36,10.0,97,cute-color,almuerzo ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719877077451
+163,basedata.communication,1,1,1,1,18,32.9,35,cute-color,entel,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719879321630
+164,neko,1,1,1,1,38,80.0,354,cute-color,mercado,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719945101070
+165,basedata.gift,1,1,1,1,17,30.0,34,cute-color,afeitadora,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719896400000
+166,entretenimiento,1,1,1,1,32,55.0,66,cute-color,estadio bad,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719810000000
+167,Apuestas,1,1,1,1,16,22.5,320,cute-color,apuestas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719975921978
+168,alimentos,1,1,1,1,36,6.0,97,cute-color,sublimes,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719896400000
+169,entretenimiento,1,1,1,1,32,66.5,66,cute-color,call of duty - sharp ok,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1719982800000
+170,basedata.gift,1,1,1,1,17,220.0,34,cute-color,regale a mama,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1720069200000
+171,transporte,1,1,1,1,34,3.0,31,cute-color,wk,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1720069200000
+172,alimentos,1,1,1,1,36,10.0,97,cute-color,almuerzo ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1720069200000
+173,entretenimiento,1,1,1,1,32,133.0,66,cute-color,ent,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1720069200000
+174,prestamos,1,1,1,1,40,100.0,194,cute-color,preste dumer,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1720069200000
+175,basedata.gift,1,1,1,1,17,300.0,34,cute-color,regale papa,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1720069200000
+176,musica,1,1,1,1,20,70.0,134,cute-color,estuche de guitarra ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1720920321641
+177,neko,1,1,1,1,38,5.0,354,cute-color,mandarina,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1720920382772
+178,transporte,1,1,1,1,34,8.0,31,cute-color,comas - casa,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1720920398478
+179,familia,1,1,1,1,35,5.0,48,cute-color,leche condensada ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1720920422679
+180,basedata.gift,1,1,1,1,17,8.5,34,cute-color,mayonesa comas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1720920439308
+181,musica,1,1,1,1,20,99.0,134,cute-color,escuela,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1720760400000
+182,musica,1,1,1,1,20,133.0,134,cute-color,Aliexpress,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1720760400000
+183,neko,1,1,1,1,38,132.5,354,cute-color,metro,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1720923525773
+184,masoneria,1,1,1,1,26,71.5,109,cute-color,desayuno masonico,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1720998740265
+185,Kia atom,1,1,1,1,39,100.0,116,cute-color,cochera,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1720998770740
+186,deudas,1,1,1,1,23,50.0,24,cute-color,pague mama,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1720999153008
+187,familia,1,1,1,1,35,10.5,48,cute-color,cena,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1721018034575
+188,neko,1,1,1,1,38,20.0,354,cute-color,taxi comas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1721018053115
+189,familia,1,1,1,1,35,30.0,48,cute-color,pollo broaster,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1721097196149
+190,transporte,1,1,1,1,34,2.0,31,cute-color,bus,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1721106000000
+191,alimentos,1,1,1,1,36,11.0,97,cute-color,almuerzo,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1721106000000
+192,neko,1,1,1,1,38,50.0,354,cute-color,mercado,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1721106000000
+193,musica,1,1,1,1,20,3.0,134,cute-color,curso pack,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1721192400000
+194,familia,1,1,1,1,35,86.1,48,cute-color,luz,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1721260919214
+195,familia,1,1,1,1,35,2.0,48,cute-color,pan,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1721260945814
+196,entretenimiento,1,1,1,1,32,62.5,66,cute-color,bee,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1721192400000
+197,transporte,1,1,1,1,34,1.0,31,cute-color,bus wk,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1721278800000
+198,transporte,1,1,1,1,34,13.8,31,cute-color,metropolitano,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1721278800000
+199,alimentos,1,1,1,1,36,20.0,97,cute-color,lasagna,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1721278800000
+200,neko,1,1,1,1,38,30.0,354,cute-color,examen de simulación/ profe,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1721278800000
+201,basedata.gift,1,1,1,1,17,16.0,34,cute-color,tacachos x4,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1721278800000
+202,familia,1,1,1,1,35,100.0,48,cute-color,mercado,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1721406868003
+203,prestamos,1,1,1,1,40,10.0,194,cute-color,preste a anderson,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1721409338458
+204,neko,1,1,1,1,38,25.0,354,cute-color,chanchito,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1721411428872
+205,transporte,1,1,1,1,34,4.0,31,cute-color,pasaje comas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1721365200000
+206,basedata.medical,1,1,1,1,22,3.9,39,cute-color,pastillas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1721365200000
+207,basedata.gift,1,1,1,1,17,370.0,34,cute-color,carrion chito,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1721536789179
+208,alimentos,1,1,1,1,36,20.0,97,cute-color,almuerzo x2,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1721451600000
+209,neko,1,1,1,1,38,52.0,354,cute-color,cena salida,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1721451600000
+210,Kia atom,1,1,1,1,39,19.0,116,cute-color,gnv,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1721451600000
+211,musica,1,1,1,1,20,800.0,134,cute-color,guitarra acústica ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1721797200000
+212,musica,1,1,1,1,20,70.0,134,cute-color,estuche acústica ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722047589696
+213,musica,1,1,1,1,20,0.0,134,cute-color,atril partituras,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722047601439
+214,neko,1,1,1,1,38,40.0,354,cute-color,cine,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722047612870
+215,transporte,1,1,1,1,34,3.0,31,cute-color,bus a dos d mayo,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722047624514
+216,familia,1,1,1,1,35,64.5,48,cute-color,almuerzo chifa,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722109785695
+217,transporte,1,1,1,1,34,9.0,31,cute-color,bus graux2,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722129754958
+218,basedata.dress,1,1,1,1,19,10.0,36,cute-color,calzoncillos x2,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722129777748
+219,basedata.gift,1,1,1,1,17,15.0,34,cute-color,pantalones papa,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722129798062
+220,alimentos,1,1,1,1,36,3.0,97,cute-color,bebida,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722129821971
+221,basedata.education,1,1,1,1,24,11.0,40,cute-color,portaminas ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722129834551
+222,basedata.education,1,1,1,1,24,12.5,40,cute-color,cuaderno + borrador+ mina,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722129852478
+223,neko,1,1,1,1,38,20.0,354,cute-color,tubos decorativos ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722129878256
+224,neko,1,1,1,1,38,5.0,354,cute-color,tripitas ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722129929627
+225,basedata.dress,1,1,1,1,19,50.0,36,cute-color,chompa gengar,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722129942375
+226,alimentos,1,1,1,1,36,10.0,97,cute-color,fresas ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722129957731
+227,transporte,1,1,1,1,34,11.0,31,cute-color,bus comas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722056400000
+228,transporte,1,1,1,1,34,11.0,31,cute-color,bus get casa,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722205114042
+229,transporte,1,1,1,1,34,20.0,31,cute-color,metropolitano ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722056400000
+230,neko,1,1,1,1,38,77.7,354,cute-color,metro,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722142800000
+231,entretenimiento,1,1,1,1,32,50.0,66,cute-color,machine learning god,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722229200000
+232,basedata.education,1,1,1,1,24,34.5,40,cute-color,mega pack ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722394343119
+233,alimentos,1,1,1,1,36,10.0,97,cute-color,menu,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722394353776
+234,transporte,1,1,1,1,34,3.0,31,cute-color,bus,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722394364367
+235,neko,1,1,1,1,38,150.0,354,cute-color,ropa mes,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722443192361
+236,musica,1,1,1,1,20,10.0,134,cute-color,circulo quintas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722443221200
+237,basedata.gift,1,1,1,1,17,45.0,34,cute-color,pollo brasa- liz,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722482709611
+238,basedata.communication,1,1,1,1,18,32.9,35,cute-color,entel,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722489756852
+239,transporte,1,1,1,1,34,3.0,31,cute-color,wk bus,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722488400000
+240,basedata.gift,1,1,1,1,17,5.0,34,cute-color,vino edu,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722488400000
+241,basedata.gift,1,1,1,1,17,30.0,34,cute-color,regalo Eduardo ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722659893961
+242,neko,1,1,1,1,38,5.0,354,cute-color,brocheta,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722659915546
+243,neko,1,1,1,1,38,80.0,354,cute-color,preste celular ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722574800000
+244,Kia atom,1,1,1,1,39,10.0,116,cute-color,lavado auto,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722574800000
+245,Kia atom,1,1,1,1,39,20.0,116,cute-color,gnv,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722739287366
+246,masoneria,1,1,1,1,26,1.3,109,cute-color,documentación,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722739312191
+247,masoneria,1,1,1,1,26,200.0,109,cute-color,certificado médico,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722739329482
+248,prestamos,1,1,1,1,40,200.0,194,cute-color,Eduardo Masonería cert médico ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722661200000
+249,neko,1,1,1,1,38,59.0,354,cute-color,cena olivos,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722661200000
+250,neko,1,1,1,1,38,1.5,354,cute-color,agua mineral,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722808639073
+251,transporte,1,1,1,1,34,13.0,31,cute-color,bus wk,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722834000000
+252,basedata.social,1,1,1,1,15,108.0,32,cute-color,paseito,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1722920400000
+253,entretenimiento,1,1,1,1,32,69.0,66,cute-color,machine learning ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723006800000
+254,transporte,1,1,1,1,34,25.0,31,cute-color,metropolitano,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723093200000
+255,alimentos,1,1,1,1,36,3.0,97,cute-color,almuerzo ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723093200000
+257,transporte,1,1,1,1,34,4.0,31,cute-color,bus,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723179600000
+258,neko,1,1,1,1,38,41.0,354,cute-color,comida selva,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723179600000
+259,familia,1,1,1,1,35,5.0,48,cute-color,café casa,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723179600000
+260,transporte,1,1,1,1,34,4.0,31,cute-color,bus,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723342970315
+261,Kia atom,1,1,1,1,39,20.4,116,cute-color,gnv,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723343015339
+262,alimentos,1,1,1,1,36,7.5,97,cute-color,alitas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723266000000
+263,neko,1,1,1,1,38,30.0,354,cute-color,montura lentes,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723352400000
+264,neko,1,1,1,1,38,34.0,354,cute-color,cafécito me and angie,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723352400000
+265,neko,1,1,1,1,38,9.9,354,cute-color,sazonador cancha,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723352400000
+266,basedata.gift,1,1,1,1,17,8.0,34,cute-color,azúcar + galletas / velorio chino,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723352400000
+267,deudas,1,1,1,1,23,11.0,24,cute-color,pague pipi,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723352400000
+268,prestamos,1,1,1,1,40,50.0,194,cute-color,edward,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723352400000
+269,transporte,1,1,1,1,34,6.0,31,cute-color,bus wk,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723438800000
+270,alimentos,1,1,1,1,36,20.0,97,cute-color,almuerzo x2,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723438800000
+271,basedata.gift,1,1,1,1,17,250.0,34,cute-color,papa velorio,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723525200000
+272,Kia atom,1,1,1,1,39,20.0,116,cute-color,gnv,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723525200000
+273,basedata.gift,1,1,1,1,17,5.0,34,cute-color,velorio galletas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723525200000
+274,entretenimiento,1,1,1,1,32,53.0,66,cute-color,machine learning,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723698000000
+275,basedata.gift,1,1,1,1,17,50.0,34,cute-color,yape salud almendra,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723784400000
+276,basedata.social,1,1,1,1,15,40.0,32,cute-color,estadio universitario vs Garcilaso ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723784400000
+277,transporte,1,1,1,1,34,4.0,31,cute-color,bus,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723870800000
+278,prestamos,1,1,1,1,40,50.0,194,cute-color,preste lpz,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723943497906
+279,basedata.gift,1,1,1,1,17,5.0,34,cute-color,recarga iti,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723943719553
+280,alimentos,1,1,1,1,36,10.0,97,cute-color,Tampico,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724027146563
+281,alimentos,1,1,1,1,36,4.0,97,cute-color,snaks,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724027196665
+282,neko,1,1,1,1,38,12.0,354,cute-color,perro caliente,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723957200000
+283,alimentos,1,1,1,1,36,11.0,97,cute-color,sandwich,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723957200000
+284,familia,1,1,1,1,35,50.0,48,cute-color,mercado,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723957200000
+285,familia,1,1,1,1,35,4.5,48,cute-color,comida gato,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723957200000
+286,Kia atom,1,1,1,1,39,50.0,116,cute-color,gasolina,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1723957200000
+287,neko,1,1,1,1,38,14.6,354,cute-color,taxi,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724130000000
+288,transporte,1,1,1,1,34,22.0,31,cute-color,metropolitano ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724215194138
+289,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724215239932
+290,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724043600000
+291,neko,1,1,1,1,38,0.0,354,cute-color,taxi comas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724043600000
+292,familia,1,1,1,1,35,7.5,48,cute-color,cafe,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724215395639
+293,familia,1,1,1,1,35,12.0,48,cute-color,Netflix ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724278433020
+294,entretenimiento,1,1,1,1,32,64.5,66,cute-color,call of duty ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724216400000
+295,alimentos,1,1,1,1,36,7.0,97,cute-color,caldo de gallina ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724216400000
+296,transporte,1,1,1,1,34,2.0,31,cute-color,get back home,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724216400000
+297,familia,1,1,1,1,35,92.5,48,cute-color,agua ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724386676118
+298,win,1,1,1,1,25,12.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724386716264
+299,neko,1,1,1,1,38,21.0,354,cute-color,preste celular ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724386776075
+300,familia,1,1,1,1,35,250.0,48,cute-color,canasta ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724913099896
+301,win,1,1,1,1,25,20.0,203,cute-color,metropolitano,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724821200000
+302,win,1,1,1,1,25,24.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724821200000
+303,transporte,1,1,1,1,34,16.0,31,cute-color,comas-home,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724913223878
+304,neko,1,1,1,1,38,21.5,354,cute-color,comida selva,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724821200000
+305,transporte,1,1,1,1,34,20.0,31,cute-color,comas-home,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724562000000
+306,alimentos,1,1,1,1,36,70.0,97,cute-color,pizzeria,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724562000000
+307,basedata.gift,1,1,1,1,17,2.0,34,cute-color,liz,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724821200000
+308,basedata.social,1,1,1,1,15,20.0,32,cute-color,estadio universitario vs Garcilaso ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724475600000
+309,transporte,1,1,1,1,34,4.0,31,cute-color,get back home,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724475600000
+310,transporte,1,1,1,1,34,4.0,31,cute-color,bus comas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724475600000
+311,basedata.gift,1,1,1,1,17,7.5,34,cute-color,snacks,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724389200000
+312,transporte,1,1,1,1,34,4.0,31,cute-color,bus comas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724389200000
+313,basedata.beautify,1,1,1,1,21,10.0,38,cute-color,corte,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724562000000
+319,basedata.gift,1,1,1,1,17,335.0,34,cute-color,carrion chito,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724947449725
+320,basedata.education,1,1,1,1,24,25.3,40,cute-color,chat gpt,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724958871102
+321,inversion,1,1,1,1,33,174.1,341,cute-color,cambio dolares,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724958955840
+322,Paseo,1,1,1,1,27,138.0,370,cute-color,paseo otao,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1724994000000
+323,Paseo,1,1,1,1,27,34.5,370,cute-color,san mateo otao faltó bryan,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725071370844
+324,Paseo,1,1,1,1,27,9.6,370,cute-color,otao taxi paseo,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725071399764
+326,Paseo,1,1,1,1,27,17.0,370,cute-color,otao desayuno x3,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725071545465
+327,Paseo,1,1,1,1,27,6.0,370,cute-color,otao ver catarata x3,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725071574485
+328,Paseo,1,1,1,1,27,20.0,370,cute-color,otao periférico x3,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725071625641
+329,Paseo,1,1,1,1,27,5.0,370,cute-color,otao bloqueador + repelente ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725071674123
+330,Paseo,1,1,1,1,27,10.0,370,cute-color,helado x2,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725071712918
+331,Paseo,1,1,1,1,27,2.0,370,cute-color,otao cachanga de guanábana ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725071732348
+332,Paseo,1,1,1,1,27,20.0,370,cute-color,otao licor de guanabana,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725071759780
+333,Paseo,1,1,1,1,27,10.0,370,cute-color,otao mermelada guanabana ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725071833023
+334,Paseo,1,1,1,1,27,60.0,370,cute-color,otao almuerzo x3,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725071940749
+335,Paseo,1,1,1,1,27,15.0,370,cute-color,entrada mano verde,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725071980777
+336,Paseo,1,1,1,1,27,4.5,370,cute-color,pasaje comas x3,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725071995113
+337,alimentos,1,1,1,1,36,13.0,97,cute-color,caldo de mote,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725072687947
+338,basedata.gift,1,1,1,1,17,10.0,34,cute-color,regale a pipi,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725072707908
+339,transporte,1,1,1,1,34,3.0,31,cute-color,comas-home,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725158198744
+340,deudas,1,1,1,1,23,60.0,24,cute-color,pague mama,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725158223406
+341,neko,1,1,1,1,38,400.0,354,cute-color,pague ropa liz,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725163647039
+342,neko,1,1,1,1,38,8.0,354,cute-color,botica,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725080400000
+343,entretenimiento,1,1,1,1,32,50.0,66,cute-color,machine learning god,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725213861501
+344,Kia atom,1,1,1,1,39,17.0,116,cute-color,gnv,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725214139103
+345,basedata.communication,1,1,1,1,18,32.9,35,cute-color,entel,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725218550037
+346,entretenimiento,1,1,1,1,32,54.0,66,cute-color,bee,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725166800000
+347,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725253200000
+348,deudas,1,1,1,1,23,70.0,24,cute-color,pague chito,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725166800000
+349,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725409722891
+350,alimentos,1,1,1,1,36,24.0,97,cute-color,makis,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725339600000
+351,basedata.education,1,1,1,1,24,5.0,40,cute-color,pack hacking,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725339600000
+352,win,1,1,1,1,25,15.0,203,cute-color,metropolitano,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725509621647
+353,transporte,1,1,1,1,34,3.0,31,cute-color,bus,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725509653890
+354,neko,1,1,1,1,38,10.0,354,cute-color,paltas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725509668493
+355,win,1,1,1,1,25,13.5,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725512400000
+356,entretenimiento,1,1,1,1,32,50.0,66,cute-color,estadio good,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725512400000
+357,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725673768547
+358,basedata.gift,1,1,1,1,17,17.7,34,cute-color,medicina anderson,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725765585019
+359,alimentos,1,1,1,1,36,15.0,97,cute-color,mostrito,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725685200000
+360,neko,1,1,1,1,38,6.1,354,cute-color,piqueos,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725685200000
+361,basedata.social,1,1,1,1,15,45.0,32,cute-color,cine,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725829989688
+362,familia,1,1,1,1,35,9.1,48,cute-color,lonche,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725771600000
+363,win,1,1,1,1,25,20.0,203,cute-color,metropolitano,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725858000000
+364,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725858000000
+365,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1725944400000
+366,familia,1,1,1,1,35,5.0,48,cute-color,snacks,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1726112535433
+367,basedata.medical,1,1,1,1,22,5.7,39,cute-color,pastilla gripe,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1726112554612
+368,neko,1,1,1,1,38,15.6,354,cute-color,taxi comas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1726030800000
+369,prestamos,1,1,1,1,40,20.0,194,cute-color,preste a anderson,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1726162271257
+370,alimentos,1,1,1,1,36,10.0,97,cute-color,lonche,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1726280526630
+371,neko,1,1,1,1,38,20.0,354,cute-color,yape,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1726280540192
+372,basedata.social,1,1,1,1,15,17.0,32,cute-color,piqueos,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1726290000000
+373,transporte,1,1,1,1,34,8.1,31,cute-color,comas-home,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1726447071076
+374,neko,1,1,1,1,38,10.0,354,cute-color,fresa + leche condensada ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1726447159073
+375,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1726549200000
+376,familia,1,1,1,1,35,6.4,48,cute-color,lonche,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1726705613260
+377,neko,1,1,1,1,38,15.6,354,cute-color,taxi comas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1726721449855
+378,neko,1,1,1,1,38,36.0,354,cute-color,sandwich+ jugo x2,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1726721461466
+379,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1726722000000
+380,entretenimiento,1,1,1,1,32,59.0,66,cute-color,terran,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1726894800000
+381,basedata.social,1,1,1,1,15,25.0,32,cute-color,disco,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1726894800000
+382,alimentos,1,1,1,1,36,14.0,97,cute-color,caldo de gallina x2,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727063654144
+383,neko,1,1,1,1,38,15.0,354,cute-color,flores amarillas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1726894800000
+384,win,1,1,1,1,25,20.0,203,cute-color,metropolitano,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727147317746
+385,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727067600000
+386,basedata.medical,1,1,1,1,22,7.9,39,cute-color,pastillas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727326800000
+387,basedata.medical,1,1,1,1,22,4.0,39,cute-color,pastillas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727240400000
+388,Kia atom,1,1,1,1,39,30.0,116,cute-color,llaves,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727326800000
+389,neko,1,1,1,1,38,12.0,354,cute-color,tacacho,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727240400000
+390,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727154000000
+391,basedata.gift,1,1,1,1,17,215.0,34,cute-color,carrion chito,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727413200000
+392,basedata.communication,1,1,1,1,18,32.3,35,cute-color,entel,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727544231201
+393,neko,1,1,1,1,38,12.5,354,cute-color,pinkberry,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727413200000
+394,basedata.medical,1,1,1,1,22,7.0,39,cute-color,pastillas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727499600000
+395,basedata.medical,1,1,1,1,22,18.0,39,cute-color,pastillas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727546876002
+396,mazoneria,1,1,1,1,13,355.0,441,cute-color,terno+ Michi+camisa+medias+porta+pasajes,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727581404574
+397,neko,1,1,1,1,38,21.5,354,cute-color,piqueos,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727499600000
+398,transporte,1,1,1,1,34,8.0,31,cute-color,comas-home,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727499600000
+399,neko,1,1,1,1,38,15.0,354,cute-color,chaufa,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727499600000
+400,Kia atom,1,1,1,1,39,50.0,116,cute-color,gasolina,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727586000000
+401,transporte,1,1,1,1,34,4.0,31,cute-color,bus,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727643996137
+402,basedata.gift,1,1,1,1,17,12.5,34,cute-color,inka cola,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727644005710
+403,transporte,1,1,1,1,34,3.0,31,cute-color,bus,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727586000000
+404,neko,1,1,1,1,38,5.0,354,cute-color,mango,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727586000000
+405,transporte,1,1,1,1,34,3.0,31,cute-color,bus,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727586000000
+406,neko,1,1,1,1,38,3.0,354,cute-color,agua mineral,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727586000000
+407,transporte,1,1,1,1,34,2.0,31,cute-color,bus,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727586000000
+408,basedata.medical,1,1,1,1,22,5.0,39,cute-color,pastillas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727586000000
+409,neko,1,1,1,1,38,3.5,354,cute-color,chifle,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727586000000
+410,mazoneria,1,1,1,1,13,60.0,441,cute-color,vinos,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727586000000
+411,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727758800000
+412,win,1,1,1,1,25,20.0,203,cute-color,metropolitano,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727758800000
+413,neko,1,1,1,1,38,1.5,354,cute-color,vizio,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727758800000
+414,neko,1,1,1,1,38,0.0,354,cute-color,pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727758800000
+415,mazoneria,1,1,1,1,13,24.5,441,cute-color,pasajes,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727672400000
+416,neko,1,1,1,1,38,200.0,354,cute-color,deuda liz,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727758800000
+417,entretenimiento,1,1,1,1,32,15.0,66,cute-color,entradas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727758800000
+418,alimentos,1,1,1,1,36,8.0,97,cute-color,tripita,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727845200000
+419,neko,1,1,1,1,38,27.9,354,cute-color,taxis,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727845200000
+420,transporte,1,1,1,1,34,2.0,31,cute-color,bus,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727845200000
+421,entretenimiento,1,1,1,1,32,65.0,66,cute-color,estadio late,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727931600000
+422,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727931600000
+423,entretenimiento,1,1,1,1,32,6.5,66,cute-color,peaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1728018000000
+424,Kia atom,1,1,1,1,39,50.0,116,cute-color,gasolina,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1728190800000
+425,basedata.gift,1,1,1,1,17,18.0,34,cute-color,brochetas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1727931600000
+426,neko,1,1,1,1,38,7.5,354,cute-color,refrescos,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1728018000000
+427,basedata.gift,1,1,1,1,17,485.0,34,cute-color,carrion chito,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730437200000
+428,alimentos,1,1,1,1,36,15.0,97,cute-color,chuleta,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730437200000
+429,basedata.social,1,1,1,1,15,60.0,32,cute-color,halloween entrada,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730437200000
+431,basedata.communication,1,1,1,1,18,32.9,35,cute-color,entel,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730437200000
+432,neko,1,1,1,1,38,20.0,354,cute-color,capa hallowen,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730437200000
+433,neko,1,1,1,1,38,22.0,354,cute-color,tacacho,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730437200000
+434,alimentos,1,1,1,1,36,15.0,97,cute-color,tacacho,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730437200000
+435,win,1,1,1,1,25,10.3,203,cute-color,metropolitano,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730437200000
+436,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730437200000
+437,basedata.education,1,1,1,1,24,25.0,40,cute-color,chat gpt,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730437200000
+438,basedata.gift,1,1,1,1,17,200.0,34,cute-color,regalos cumpleaños,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730437200000
+439,inversion,1,1,1,1,33,124.0,341,cute-color,cambio dolares,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730437200000
+440,prestamos,1,1,1,1,40,400.0,194,cute-color,preste a anderson,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730437200000
+441,Kia atom,1,1,1,1,39,50.0,116,cute-color,gasolina,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730446216998
+442,basedata.social,1,1,1,1,15,0.0,32,cute-color,peaje haloween,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730446332575
+443,basedata.social,1,1,1,1,15,0.0,32,cute-color,cochera haloween,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730446383276
+445,neko,1,1,1,1,38,18.5,354,cute-color,piqueos,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730446400437
+446,basedata.social,1,1,1,1,15,6.6,32,cute-color,peaje haloween,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730485384186
+447,neko,1,1,1,1,38,300.0,354,cute-color,pague ropa liz,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730485394377
+449,Kia atom,1,1,1,1,39,15.0,116,cute-color,gnv,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730487006703
+450,neko,1,1,1,1,38,24.0,354,cute-color,ceviche,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730496904661
+451,familia,1,1,1,1,35,150.0,48,cute-color,mercado,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730589951369
+452,neko,1,1,1,1,38,18.5,354,cute-color,frapes,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730437200000
+453,alimentos,1,1,1,1,36,31.0,97,cute-color,pinkberry x2,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730437200000
+454,entretenimiento,1,1,1,1,32,122.2,66,cute-color,japan,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730625175257
+455,basedata.beautify,1,1,1,1,21,107.84,38,cute-color,zapatillas ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730708318498
+456,transporte,1,1,1,1,34,4.0,31,cute-color,bus comas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730610000000
+457,mazoneria,1,1,1,1,13,25.0,441,cute-color,refrigerio ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730778746197
+458,win,1,1,1,1,25,15.0,203,cute-color,metropolitano,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730782800000
+459,win,1,1,1,1,25,12.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730782800000
+460,basedata.social,1,1,1,1,15,20.0,32,cute-color,entrada para halloween ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730782800000
+461,neko,1,1,1,1,38,65.0,354,cute-color,capa conejo,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730782800000
+462,Apuestas,1,1,1,1,16,15.0,320,cute-color,ruleta,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730782800000
+463,basedata.gift,1,1,1,1,17,5.0,34,cute-color,ruleta,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730782800000
+464,neko,1,1,1,1,38,15.0,354,cute-color,algodón,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730782800000
+465,basedata.gift,1,1,1,1,17,68.0,34,cute-color,pollo brasa- liz,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730782800000
+466,entretenimiento,1,1,1,1,32,52.0,66,cute-color,estadio good,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730869200000
+467,basedata.gift,1,1,1,1,17,3.0,34,cute-color,regale a mama,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730869200000
+468,basedata.gift,1,1,1,1,17,13.0,34,cute-color,angisita,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731034877306
+469,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731042000000
+470,Kia atom,1,1,1,1,39,60.0,116,cute-color,mantenimiento radiador ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731042000000
+471,transporte,1,1,1,1,34,4.0,31,cute-color,bus comas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731042000000
+472,transporte,1,1,1,1,34,16.3,31,cute-color,taxi u,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731202146068
+473,alimentos,1,1,1,1,36,5.0,97,cute-color,sopa seca,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731202167537
+474,basedata.beautify,1,1,1,1,21,20.0,38,cute-color,polera u,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731202181756
+475,alimentos,1,1,1,1,36,7.0,97,cute-color,ceviche,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731202195573
+476,alimentos,1,1,1,1,36,6.0,97,cute-color,bebida,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731202218177
+477,basedata.social,1,1,1,1,15,20.0,32,cute-color,entrada u 100 celebración ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731202279089
+478,basedata.beautify,1,1,1,1,21,10.0,38,cute-color,corte,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1730955600000
+479,basedata.social,1,1,1,1,15,30.0,32,cute-color,cervezas u,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731128400000
+480,basedata.social,1,1,1,1,15,45.0,32,cute-color,pollo Broaster,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731128400000
+481,alimentos,1,1,1,1,36,10.0,97,cute-color,sandwich,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731214800000
+482,transporte,1,1,1,1,34,1.0,31,cute-color,bus,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731214800000
+483,entretenimiento,1,1,1,1,32,10.0,66,cute-color,OF,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731214800000
+484,neko,1,1,1,1,38,20.0,354,cute-color,repuesto ducha,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731351484807
+485,alimentos,1,1,1,1,36,31.0,97,cute-color,Starbucks,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731301200000
+486,familia,1,1,1,1,35,23.2,48,cute-color,tottus,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731301200000
+487,win,1,1,1,1,25,12.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731455126871
+488,alimentos,1,1,1,1,36,20.0,97,cute-color,lasagna,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731469942209
+489,basedata.gift,1,1,1,1,17,3.6,34,cute-color,bebidas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731469950307
+490,basedata.gift,1,1,1,1,17,8.0,34,cute-color,brochetas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731470016759
+491,transporte,1,1,1,1,34,13.0,31,cute-color,comas-home,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731444480000
+492,entretenimiento,1,1,1,1,32,85.0,66,cute-color,machine learning god,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731554593129
+493,win,1,1,1,1,25,6.0,203,cute-color,metropolitano,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731644935121
+494,win,1,1,1,1,25,2.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731644945263
+495,alimentos,1,1,1,1,36,15.0,97,cute-color,chifa,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731644965127
+496,neko,1,1,1,1,38,78.0,354,cute-color,cholosoy,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731707627649
+497,neko,1,1,1,1,38,20.0,354,cute-color,masajes ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731724480017
+498,Kia atom,1,1,1,1,39,50.0,116,cute-color,gasolina,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731729456138
+499,deudas,1,1,1,1,23,20.0,24,cute-color,asesoría deuda,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731531720000
+500,basedata.medical,1,1,1,1,22,39.0,39,cute-color,dermatólogo ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731790972201
+501,neko,1,1,1,1,38,19.0,354,cute-color,olis,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731821457559
+502,basedata.gift,1,1,1,1,17,13.0,34,cute-color,olis,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731821470257
+503,transporte,1,1,1,1,34,5.0,31,cute-color,cochera,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731821481533
+504,transporte,1,1,1,1,34,10.0,31,cute-color,gnv,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731825093288
+505,transporte,1,1,1,1,34,8.0,31,cute-color,comas-home,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731892867790
+506,basedata.medical,1,1,1,1,22,24.0,39,cute-color,preparado acne,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731892885399
+507,alimentos,1,1,1,1,36,8.0,97,cute-color,fresas ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731892903376
+508,alimentos,1,1,1,1,36,2.5,97,cute-color,gatorade,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731892926198
+509,basedata.medical,1,1,1,1,22,24.6,39,cute-color,doxiciclina x100,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731899517687
+510,neko,1,1,1,1,38,23.0,354,cute-color,aceite de coco,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731899659637
+511,basedata.medical,1,1,1,1,22,15.0,39,cute-color,polo,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731899672651
+512,neko,1,1,1,1,38,11.7,354,cute-color,metro,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731899740464
+513,basedata.medical,1,1,1,1,22,11.9,39,cute-color,jabón Dove ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731899774946
+514,basedata.gift,1,1,1,1,17,8.2,34,cute-color,yogurt ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731899787544
+515,mazoneria,1,1,1,1,13,140.0,441,cute-color,cuota,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731983289995
+516,basedata.medical,1,1,1,1,22,70.0,39,cute-color,bloqueador,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1731989389303
+517,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732070027962
+518,win,1,1,1,1,25,6.0,203,cute-color,metropolitano,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732070047877
+519,basedata.medical,1,1,1,1,22,7.0,39,cute-color,pastilla gripe,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732070073289
+520,basedata.medical,1,1,1,1,22,5.0,39,cute-color,pastilla gripe,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732145182445
+521,win,1,1,1,1,25,20.0,203,cute-color,tarjeta metro univ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732145200756
+522,alimentos,1,1,1,1,36,17.0,97,cute-color,queque,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732115880000
+523,win,1,1,1,1,25,5.5,203,cute-color,metropolitano,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732202280000
+524,win,1,1,1,1,25,13.5,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732202340000
+525,basedata.medical,1,1,1,1,22,10.0,39,cute-color,pastillas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732202400000
+526,familia,1,1,1,1,35,6.5,48,cute-color,comida gato,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732202400000
+527,familia,1,1,1,1,35,10.0,48,cute-color,comida gato,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732202460000
+528,neko,1,1,1,1,38,13.5,354,cute-color,brocheta,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732029720000
+529,basedata.medical,1,1,1,1,22,19.5,39,cute-color,gripe inyección ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732334928795
+530,basedata.gift,1,1,1,1,17,7.0,34,cute-color,helados,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732334938314
+531,alimentos,1,1,1,1,36,30.2,97,cute-color,pollo Broaster playa,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732407561076
+532,basedata.gift,1,1,1,1,17,9.5,34,cute-color,jugo naranja mafer,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732415884566
+533,alimentos,1,1,1,1,36,15.0,97,cute-color,pechuga broaster,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732329515000
+534,entretenimiento,1,1,1,1,32,61.0,66,cute-color,machine learning god,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732338000000
+535,familia,1,1,1,1,35,110.0,48,cute-color,mercado,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732338000000
+536,basedata.medical,1,1,1,1,22,12.9,39,cute-color,ambrosol + zetiricina ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732465923000
+537,neko,1,1,1,1,38,18.5,354,cute-color,frapes,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732424400000
+538,basedata.gift,1,1,1,1,17,8.0,34,cute-color,pasajes,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732424400000
+539,inversion,1,1,1,1,33,150.0,341,cute-color,aliexpress,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732572427531
+540,Kia atom,1,1,1,1,39,50.0,116,cute-color,gasolina,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732572458441
+541,alimentos,1,1,1,1,36,3.5,97,cute-color,yogurt ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732510800000
+542,neko,1,1,1,1,38,3.5,354,cute-color,chifle,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732510800000
+543,neko,1,1,1,1,38,7.0,354,cute-color,brocheta,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732510800000
+544,neko,1,1,1,1,38,50.0,354,cute-color,analisis,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732629141960
+545,deudas,1,1,1,1,23,25.0,24,cute-color,asesoría deuda 2,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732648017565
+546,neko,1,1,1,1,38,10.0,354,cute-color,patitas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732601302000
+547,familia,1,1,1,1,35,10.0,48,cute-color,leche condensada,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732597200000
+548,Kia atom,1,1,1,1,39,18.0,116,cute-color,gnv,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732597200000
+549,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732733209342
+550,win,1,1,1,1,25,20.0,203,cute-color,metropolitano,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732733260784
+551,alimentos,1,1,1,1,36,10.0,97,cute-color,tacacho,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732683600000
+552,Kia atom,1,1,1,1,39,30.0,116,cute-color,frenos - limpiar disco,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732683600000
+553,alimentos,1,1,1,1,36,12.5,97,cute-color,mostrito,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732848259332
+554,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732911740436
+555,win,1,1,1,1,25,20.0,203,cute-color,navidad colecta,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732921754309
+556,basedata.gift,1,1,1,1,17,335.0,34,cute-color,carrion chito,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732921813437
+557,basedata.communication,1,1,1,1,18,32.9,35,cute-color,entel,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732921873364
+558,basedata.education,1,1,1,1,24,25.5,40,cute-color,chat gpt,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732922264549
+559,inversion,1,1,1,1,33,73.5,341,cute-color,aliexpress,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732922292517
+560,alimentos,1,1,1,1,36,10.0,97,cute-color,chancho,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732856400000
+561,neko,1,1,1,1,38,7.5,354,cute-color,jugo piña,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732856400000
+562,transporte,1,1,1,1,34,4.5,31,cute-color,bus get casa,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732989434579
+563,basedata.education,1,1,1,1,24,15.0,40,cute-color,libro datos impresion,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732989448880
+564,alimentos,1,1,1,1,36,14.0,97,cute-color,caldo de gallina x2,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733026486956
+565,basedata.gift,1,1,1,1,17,2.0,34,cute-color,chito pastilla,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733026510479
+566,basedata.social,1,1,1,1,15,313.0,32,cute-color,vivo x el rock 2025,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733026529270
+567,transporte,1,1,1,1,34,4.0,31,cute-color,bus comas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733026547881
+568,basedata.gift,1,1,1,1,17,25.0,34,cute-color,fiesta 18 Nico bro,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1732942800000
+569,familia,1,1,1,1,35,100.0,48,cute-color,mercado,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733034112379
+570,transporte,1,1,1,1,34,10.0,31,cute-color,bus,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733090817249
+571,alimentos,1,1,1,1,36,4.0,97,cute-color,piña,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733090920647
+572,familia,1,1,1,1,35,15.0,48,cute-color,snacks,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733104101743
+573,transporte,1,1,1,1,34,5.0,31,cute-color,taxi,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733104123362
+574,familia,1,1,1,1,35,75.0,48,cute-color,norkys - mamama,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733111394598
+575,Kia atom,1,1,1,1,39,10.2,116,cute-color,gnv,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733151686568
+576,masoneria,1,1,1,1,13,1.0,441,cute-color,pasajes,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733115600000
+577,familia,1,1,1,1,35,10.0,48,cute-color,mercado,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733244160616
+578,entretenimiento,1,1,1,1,32,65.5,66,cute-color,call of duty - sharp ok,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733278781185
+579,neko,1,1,1,1,38,15.0,354,cute-color,tacacho,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733280823297
+580,win,1,1,1,1,25,4.0,203,cute-color,regalo amigo secreto,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733202000000
+581,alimentos,1,1,1,1,36,3.0,97,cute-color,frutos secos,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733202000000
+582,neko,1,1,1,1,38,46.0,354,cute-color,revisión IA - tesina,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733364341435
+583,win,1,1,1,1,25,14.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733364384773
+584,win,1,1,1,1,25,14.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733439583895
+585,basedata.gift,1,1,1,1,17,18.0,34,cute-color,Anderson pechuga,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733439602408
+586,neko,1,1,1,1,38,15.0,354,cute-color,comida,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733439747523
+587,basedata.medical,1,1,1,1,22,10.5,39,cute-color,Diclofenaco - esguince muñeca,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733457651046
+588,neko,1,1,1,1,38,300.0,354,cute-color,pague ropa liz,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733457683793
+589,basedata.medical,1,1,1,1,22,7.0,39,cute-color,pastillas  - esguince muñeca,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733537153245
+590,neko,1,1,1,1,38,13.5,354,cute-color,jugo piña,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733461200000
+591,alimentos,1,1,1,1,36,6.5,97,cute-color,hamburguesa,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733461200000
+592,basedata.gift,1,1,1,1,17,7.0,34,cute-color,pickeos,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733461200000
+593,basedata.medical,1,1,1,1,22,39.0,39,cute-color,cita  - esguince muñeca,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733606406189
+594,basedata.medical,1,1,1,1,22,39.0,39,cute-color,radiografía  - esguince muñeca,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733606430398
+595,basedata.medical,1,1,1,1,22,68.4,39,cute-color,infiltración  - esguince muñeca,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733606445686
+596,basedata.medical,1,1,1,1,22,30.0,39,cute-color,muñequera  - esguince muñeca,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733606527802
+597,Kia atom,1,1,1,1,39,20.0,116,cute-color,gasolina,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733606642605
+598,basedata.medical,1,1,1,1,22,97.8,39,cute-color,pastillas - esguince muñeca,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733609301898
+599,neko,1,1,1,1,38,15.0,354,cute-color,brocheta,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733547600000
+600,entretenimiento,1,1,1,1,32,50.0,66,cute-color,machine learning estafado,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733547600000
+601,transporte,1,1,1,1,34,2.0,31,cute-color,bus comas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733634000000
+602,neko,1,1,1,1,38,7.0,354,cute-color,caldo de gallina,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733634000000
+603,alimentos,1,1,1,1,36,7.0,97,cute-color,caldo de gallina,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733634000000
+604,familia,1,1,1,1,35,6.5,48,cute-color,huevo,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733801585650
+605,basedata.gift,1,1,1,1,17,35.0,34,cute-color,Anderson inyectable curso,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733857519085
+606,basedata.medical,1,1,1,1,22,250.0,39,cute-color,terapia - esguince de muñeca ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733878239504
+607,transporte,1,1,1,1,34,1.0,31,cute-color,bus,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733878258733
+608,familia,1,1,1,1,35,4.2,48,cute-color,leche gloria,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733878276809
+609,basedata.medical,1,1,1,1,22,19.0,39,cute-color,Diclofenaco 2ml - esguince muñeca,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733879110103
+610,alimentos,1,1,1,1,36,13.0,97,cute-color,chuleta,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733806800000
+611,basedata.beautify,1,1,1,1,21,10.0,38,cute-color,corte,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733969543753
+612,neko,1,1,1,1,38,10.0,354,cute-color,chifa,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1733978325360
+613,win,1,1,1,1,25,8.0,203,cute-color,regalo amigo secreto,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734039151269
+614,win,1,1,1,1,25,50.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734066000000
+615,entretenimiento,1,1,1,1,32,65.0,66,cute-color,call of duty - sharp ok,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734066000000
+616,neko,1,1,1,1,38,50.0,354,cute-color,uñas ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734152400000
+617,neko,1,1,1,1,38,29.0,354,cute-color,liquido de lentes ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734152400000
+618,basedata.social,1,1,1,1,15,70.0,32,cute-color,almuerzo con edward,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734152400000
+619,Kia atom,1,1,1,1,39,50.0,116,cute-color,gasolina,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734152400000
+620,masoneria,1,1,1,1,13,70.0,441,cute-color,almuerzo fin de año,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734316755978
+621,basedata.gift,1,1,1,1,17,25.0,34,cute-color,cumpleaños liz,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734316797676
+622,alimentos,1,1,1,1,36,5.0,97,cute-color,bebida,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734316827565
+623,neko,1,1,1,1,38,50.0,354,cute-color,mercado,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734378538511
+624,basedata.gift,1,1,1,1,17,14.0,34,cute-color,cumpleaños liz,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734378545744
+625,basedata.gift,1,1,1,1,17,5.0,34,cute-color,iti pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734325200000
+626,neko,1,1,1,1,38,5.0,354,cute-color,pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734325200000
+627,win,1,1,1,1,25,10.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734411600000
+628,win,1,1,1,1,25,20.0,203,cute-color,metropolitano,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734411600000
+629,neko,1,1,1,1,38,5.0,354,cute-color,pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734411600000
+630,neko,1,1,1,1,38,25.0,354,cute-color,alitas bbq,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734411600000
+631,win,1,1,1,1,25,60.0,203,cute-color,regalo amigo secreto,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734411600000
+632,transporte,1,1,1,1,34,3.0,31,cute-color,bus comas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734411600000
+633,neko,1,1,1,1,38,8.0,354,cute-color,inyección,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734498000000
+634,win,1,1,1,1,25,12.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734498000000
+635,neko,1,1,1,1,38,15.5,354,cute-color,alita broaster x2,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734498000000
+636,entretenimiento,1,1,1,1,32,50.0,66,cute-color,machine learning bad,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734584400000
+637,win,1,1,1,1,25,3.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734670800000
+638,entretenimiento,1,1,1,1,32,65.0,66,cute-color,call of duty - sharp ok,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734670800000
+639,basedata.gift,1,1,1,1,17,67.5,34,cute-color,utiles inyectables vitamina c,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734670800000
+640,neko,1,1,1,1,38,20.0,354,cute-color,comida,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734584400000
+641,basedata.gift,1,1,1,1,17,540.0,34,cute-color,cel mama,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734757200000
+642,alimentos,1,1,1,1,36,10.0,97,cute-color,papa rellena x2,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734757200000
+643,transporte,1,1,1,1,34,3.0,31,cute-color,cochera,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734757200000
+644,win,1,1,1,1,25,28.0,203,cute-color,almuerzo,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734982133513
+645,basedata.gift,1,1,1,1,17,50.0,34,cute-color,zapatos mama,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734983838205
+646,Kia atom,1,1,1,1,39,45.0,116,cute-color,revisión técnica ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734983847958
+647,alimentos,1,1,1,1,36,3.5,97,cute-color,brocheta,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734843600000
+648,basedata.beautify,1,1,1,1,21,25.0,38,cute-color,polvo texurisador peinado,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734843600000
+649,basedata.beautify,1,1,1,1,21,15.0,38,cute-color,laca,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734843600000
+650,basedata.beautify,1,1,1,1,21,5.0,38,cute-color,peine circular,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734843600000
+651,basedata.gift,1,1,1,1,17,100.0,34,cute-color,navidad anderson,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734843600000
+652,basedata.beautify,1,1,1,1,21,40.0,38,cute-color,pantalón drill - azulino,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734843600000
+653,basedata.gift,1,1,1,1,17,40.0,34,cute-color,regalo navidad - papa,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734843600000
+654,basedata.medical,1,1,1,1,22,12.0,39,cute-color,gripe inyección ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1735010394185
+655,familia,1,1,1,1,35,28.0,48,cute-color,cena,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1734843600000
+656,neko,1,1,1,1,38,22.0,354,cute-color,jugos,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1735966800000
+657,entretenimiento,1,1,1,1,32,55.0,66,cute-color,estadio good,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1735966800000
+658,Paseo,1,1,1,1,27,40.0,370,cute-color,piscina ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1736053200000
+659,Kia atom,1,1,1,1,39,18.0,116,cute-color,gnv,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1736053200000
+660,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1736139600000
+661,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1736226000000
+662,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1736312400000
+663,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1736478858206
+664,entretenimiento,1,1,1,1,32,65.0,66,cute-color,call of duty - ok,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1736312400000
+665,neko,1,1,1,1,38,39.0,354,cute-color,comida china,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1736226000000
+666,neko,1,1,1,1,38,3.0,354,cute-color,pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1736226000000
+667,neko,1,1,1,1,38,2.0,354,cute-color,agua mineral,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1736226000000
+668,neko,1,1,1,1,38,50.0,354,cute-color,regalo ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1736478973650
+669,win,1,1,1,1,25,20.0,203,cute-color,metropolitano,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1736226000000
+670,win,1,1,1,1,25,7.0,203,cute-color,metropolitano,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1736312400000
+671,alimentos,1,1,1,1,36,20.0,97,cute-color,almuerzo x2,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1736721400820
+672,neko,1,1,1,1,38,8.0,354,cute-color,cortina imantada,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1736571600000
+673,alimentos,1,1,1,1,36,8.0,97,cute-color,chocolate ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1736571600000
+674,basedata.dress,1,1,1,1,19,20.0,36,cute-color,short,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1736571600000
+675,alimentos,1,1,1,1,36,12.0,97,cute-color,chocoloco,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1736571600000
+676,basedata.gift,1,1,1,1,17,26.0,34,cute-color,vinos x2,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1736571600000
+677,Kia atom,1,1,1,1,39,5.0,116,cute-color,cochera ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1736571600000
+678,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1736744400000
+679,entretenimiento,1,1,1,1,32,65.0,66,cute-color,call of duty - sharp ok,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1736744400000
+680,Paseo,1,1,1,1,27,41.0,370,cute-color,piscina ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1736830800000
+681,win,1,1,1,1,25,8.0,203,cute-color,metropolitano,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1736744400000
+682,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1736917200000
+683,win,1,1,1,1,25,20.0,203,cute-color,metropolitano,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1736917200000
+684,transporte,1,1,1,1,34,5.0,31,cute-color,tren,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1737003600000
+685,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1737090000000
+686,alimentos,1,1,1,1,36,10.0,97,cute-color,pollo a la brasa ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1737090000000
+687,win,1,1,1,1,25,7.5,203,cute-color,win eventos,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1737003600000
+688,entretenimiento,1,1,1,1,32,65.0,66,cute-color,good of war - ok,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1737003600000
+689,basedata.medical,1,1,1,1,22,35.0,39,cute-color,terapia - esguince de muñeca ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1737003600000
+690,neko,1,1,1,1,38,20.0,354,cute-color,mercado,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1737219093139
+691,basedata.social,1,1,1,1,15,26.0,32,cute-color,taxi ACE bahia,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1737176400000
+692,transporte,1,1,1,1,34,8.0,31,cute-color,comas-home,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1737176400000
+693,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1737591859867
+694,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1737435600000
+695,win,1,1,1,1,25,20.0,203,cute-color,metropolitano,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1737435600000
+696,neko,1,1,1,1,38,2.0,354,cute-color,tacacho,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1737435600000
+697,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1737349200000
+698,entretenimiento,1,1,1,1,32,22.5,66,cute-color,escout,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1737349200000
+699,win,1,1,1,1,25,6.0,203,cute-color,torta,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1737435600000
+700,basedata.medical,1,1,1,1,22,35.0,39,cute-color,terapia - esguince de muñeca ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1737435600000
+701,entretenimiento,1,1,1,1,32,65.0,66,cute-color,call of duty - ok,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1737522000000
+702,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1737608400000
+703,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1737694800000
+704,win,1,1,1,1,25,0.0,203,cute-color,metropolitano,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1737694800000
+705,entretenimiento,1,1,1,1,32,61.0,66,cute-color,call of duty - sharp ok,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1737694800000
+706,neko,1,1,1,1,38,6.0,354,cute-color,bus,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1737781200000
+707,basedata.social,1,1,1,1,15,30.0,32,cute-color,playa,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1737867600000
+708,neko,1,1,1,1,38,75.0,354,cute-color,regalo ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1737954000000
+709,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1737954000000
+710,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738040400000
+711,basedata.gift,1,1,1,1,17,360.0,34,cute-color,carrion chito,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1737954000000
+712,masoneria,1,1,1,1,13,10.0,441,cute-color,refrigerio ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1737954000000
+713,basedata.medical,1,1,1,1,22,35.0,39,cute-color,terapia - esguince de muñeca ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738121988767
+714,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738126800000
+715,alimentos,1,1,1,1,36,20.0,97,cute-color,Bembos,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738126800000
+716,transporte,1,1,1,1,34,9.1,31,cute-color,taxi,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738126800000
+717,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738280097627
+718,neko,1,1,1,1,38,300.0,354,cute-color,pague ropa liz,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738280183499
+719,Kia atom,1,1,1,1,39,80.0,116,cute-color,gasolina,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738040400000
+720,basedata.beautify,1,1,1,1,21,30.0,38,cute-color,salvaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738290029317
+721,alimentos,1,1,1,1,36,33.0,97,cute-color,cena,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738295955552
+722,basedata.beautify,1,1,1,1,21,13.0,38,cute-color,desodorante ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738295968482
+723,alimentos,1,1,1,1,36,17.0,97,cute-color,yogurt ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738295995530
+724,alimentos,1,1,1,1,36,4.0,97,cute-color,wafer,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738296024634
+725,win,1,1,1,1,25,19.0,203,cute-color,metropolitano,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738299600000
+726,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738299600000
+727,basedata.gift,1,1,1,1,17,25.0,34,cute-color,baby shower,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738386000000
+728,entretenimiento,1,1,1,1,32,13.0,66,cute-color,bad,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738213200000
+729,familia,1,1,1,1,35,50.0,48,cute-color,parrillada familiar ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738545870315
+730,basedata.communication,1,1,1,1,18,32.9,35,cute-color,entel,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738564515084
+731,basedata.medical,1,1,1,1,22,90.0,39,cute-color,lentes,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738558800000
+732,masoneria,1,1,1,1,13,11.0,441,cute-color,varios,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738558800000
+733,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738645200000
+734,entretenimiento,1,1,1,1,32,65.0,66,cute-color,call of duty ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738645200000
+735,win,1,1,1,1,25,12.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738731600000
+736,neko,1,1,1,1,38,62.5,354,cute-color,parque agua ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738731600000
+737,basedata.gift,1,1,1,1,17,450.0,34,cute-color,gamor-chito,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738558800000
+738,win,1,1,1,1,25,32.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738818000000
+739,neko,1,1,1,1,38,20.0,354,cute-color,,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738818000000
+740,alimentos,1,1,1,1,36,2.0,97,cute-color,bebida,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738818000000
+741,win,1,1,1,1,25,12.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738976543177
+742,transporte,1,1,1,1,34,12.0,31,cute-color,get back home,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738818000000
+743,neko,1,1,1,1,38,100.0,354,cute-color,regale ropa,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1738976594753
+744,alimentos,1,1,1,1,36,56.5,97,cute-color,makis,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739064210930
+745,Paseo,1,1,1,1,27,73.0,370,cute-color,retamas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739064248170
+746,transporte,1,1,1,1,34,20.0,31,cute-color,gnv,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739064361459
+747,alimentos,1,1,1,1,36,8.0,97,cute-color,mazamorra ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739064389994
+748,masoneria,1,1,1,1,13,128.8,441,cute-color,cuota,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739069358580
+749,transporte,1,1,1,1,34,6.0,31,cute-color,get back home,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739142301351
+750,alimentos,1,1,1,1,36,6.0,97,cute-color,desayuno ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739142310156
+751,masoneria,1,1,1,1,13,30.0,441,cute-color,camisa,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739142318241
+752,neko,1,1,1,1,38,100.0,354,cute-color,ropa trabajo,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739146012600
+753,neko,1,1,1,1,38,5.0,354,cute-color,mango,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739146032887
+754,alimentos,1,1,1,1,36,2.0,97,cute-color,tuna,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739146041524
+755,Kia atom,1,1,1,1,39,12.0,116,cute-color,cochera,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739146049075
+756,familia,1,1,1,1,35,25.0,48,cute-color,papel higiénico ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739146078629
+757,alimentos,1,1,1,1,36,5.0,97,cute-color,gelatina cereza,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739146089874
+758,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739163600000
+759,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739250000000
+760,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739336400000
+761,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739422800000
+762,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739509200000
+763,basedata.medical,1,1,1,1,22,35.0,39,cute-color,terapia - esguince de muñeca ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739250000000
+764,basedata.medical,1,1,1,1,22,35.0,39,cute-color,terapia - esguince de muñeca ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739422800000
+765,neko,1,1,1,1,38,61.0,354,cute-color,cena,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739509200000
+766,neko,1,1,1,1,38,13.0,354,cute-color,flores,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739509200000
+767,neko,1,1,1,1,38,5.0,354,cute-color,bus,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739509200000
+768,Kia atom,1,1,1,1,39,400.0,116,cute-color,choque anderson,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739422800000
+769,neko,1,1,1,1,38,32.0,354,cute-color,chifa,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739745685531
+770,neko,1,1,1,1,38,8.0,354,cute-color,bus,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739595600000
+771,familia,1,1,1,1,35,5.0,48,cute-color,mango,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739595600000
+772,basedata.diet,1,1,1,1,12,1.0,29,cute-color,,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739746264670
+773,neko,1,1,1,1,38,12.0,354,cute-color,cena,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739595600000
+774,alimentos,1,1,1,1,36,4.5,97,cute-color,snaks,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739595600000
+775,neko,1,1,1,1,38,20.0,354,cute-color,taxi comas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739595600000
+776,transporte,1,1,1,1,34,8.0,31,cute-color,bus comas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739682000000
+777,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1739808461234
