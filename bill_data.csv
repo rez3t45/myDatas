@@ -802,3 +802,9 @@ id,name,bill_type,account_id,member_id,account_book_id,category_id,money,icon,ic
 815,neko,1,1,1,1,38,13.0,354,cute-color,taxi comas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740286800000
 816,basedata.education,1,1,1,1,24,33.75,40,cute-color,certyq dp-600,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740286800000
 817,win,1,1,1,1,25,20.0,203,cute-color,metropolitano,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740286800000
+818,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740373200000
+819,alimentos,1,1,1,1,36,4.5,97,cute-color,yogurt ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740373200000
+820,alimentos,1,1,1,1,36,1.7,97,cute-color,mani,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740373200000
+821,masoneria,1,1,1,1,13,50.0,441,cute-color,almuerzo,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740373200000
+822,win,1,1,1,1,25,19.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740526299078
+823,basedata.gift,1,1,1,1,17,16.0,34,cute-color,almuerzo Deivid apuesta,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740526388653
