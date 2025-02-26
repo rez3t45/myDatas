@@ -808,3 +808,10 @@ id,name,bill_type,account_id,member_id,account_book_id,category_id,money,icon,ic
 821,masoneria,1,1,1,1,13,50.0,441,cute-color,almuerzo,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740373200000
 822,win,1,1,1,1,25,19.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740526299078
 823,basedata.gift,1,1,1,1,17,16.0,34,cute-color,almuerzo Deivid apuesta,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740526388653
+825,neko,1,1,1,1,38,20.0,354,cute-color,jugos,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740534608648
+826,basedata.medical,1,1,1,1,22,4.5,39,cute-color,vitamina c - intravenosa,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740534629932
+827,basedata.gift,1,1,1,1,17,10.0,34,cute-color,regale a mama,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740534649914
+828,basedata.medical,1,1,1,1,22,35.0,39,cute-color,terapia - esguince de muñeca ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740459600000
+829,basedata.medical,1,1,1,1,22,30.0,39,cute-color,vitamina c - intravenosa,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740459600000
+830,win,1,1,1,1,25,5.0,203,cute-color,cumpleaños,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740593277696
+831,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740593295789
