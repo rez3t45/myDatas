@@ -814,4 +814,6 @@ id,name,bill_type,account_id,member_id,account_book_id,category_id,money,icon,ic
 828,basedata.medical,1,1,1,1,22,35.0,39,cute-color,terapia - esguince de muñeca ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740459600000
 829,basedata.medical,1,1,1,1,22,30.0,39,cute-color,vitamina c - intravenosa,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740459600000
 830,win,1,1,1,1,25,5.0,203,cute-color,cumpleaños,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740593277696
-831,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740593295789
+831,win,1,1,1,1,25,12.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740593295789
+832,entretenimiento,1,1,1,1,32,22.0,66,cute-color,footing,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740623343804
+833,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740674742952
