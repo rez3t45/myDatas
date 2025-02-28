@@ -1,11 +1,11 @@
-id,name,bill_type,account_id,member_id,account_book_id,category_id,money,icon,icon_fontFamily,note,transfer_to_id,extdata,task_id,fecha
+﻿id,name,bill_type,account_id,member_id,account_book_id,category_id,money,icon,icon_fontFamily,note,transfer_to_id,extdata,task_id,fecha
 1,transporte,1,1,1,1,34,5.0,31,cute-color,Home ed,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704171600000
 2,familia,1,1,1,1,35,12.0,48,cute-color,netflix,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704171600000
 3,basedata.communication,1,1,1,1,18,5.0,35,cute-color,spotify,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704171600000
 4,inversion,1,1,1,1,33,30.0,341,cute-color,método hit/lacra,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704171600000
 5,inversion,1,1,1,1,33,3.0,341,cute-color,método pedidos,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704322480770
 7,transporte,1,1,1,1,34,4.0,31,cute-color,bus angie,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704322562605
-8,alimentos,1,1,1,1,36,8.0,97,cute-color,picarones x2,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704329858234
+8,alimentos,1,1,1,1,36,8.0,97,cute-color,picarones x2,,"{"""":null,""longitude"":null,""pictures"":null}",,1704329858234
 9,transporte,1,1,1,1,34,14.2,31,cute-color,ger back home,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704258000000
 10,atom store,2,1,1,1,37,35.0,245,cute-color,foco smart,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704383313907
 12,familia,1,1,1,1,35,12.3,48,cute-color,recibos casa,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704394096111
@@ -817,3 +817,8 @@ id,name,bill_type,account_id,member_id,account_book_id,category_id,money,icon,ic
 831,win,1,1,1,1,25,12.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740593295789
 832,entretenimiento,1,1,1,1,32,22.0,66,cute-color,footing,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740623343804
 833,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740674742952
+834,entretenimiento,1,1,1,1,32,75.0,66,cute-color,call of duty ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740632400000
+835,neko,1,1,1,1,38,40.0,354,cute-color,regalo ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740632400000
+836,Kia atom,1,1,1,1,39,100.0,116,cute-color,choque - repuestos ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740632400000
+837,win,1,1,1,1,25,40.0,203,cute-color,metropolitano,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740632400000
+838,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740752850670
