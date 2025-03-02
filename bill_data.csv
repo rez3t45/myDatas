@@ -1,11 +1,11 @@
-﻿id,name,bill_type,account_id,member_id,account_book_id,category_id,money,icon,icon_fontFamily,note,transfer_to_id,extdata,task_id,fecha
+id,name,bill_type,account_id,member_id,account_book_id,category_id,money,icon,icon_fontFamily,note,transfer_to_id,extdata,task_id,fecha
 1,transporte,1,1,1,1,34,5.0,31,cute-color,Home ed,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704171600000
 2,familia,1,1,1,1,35,12.0,48,cute-color,netflix,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704171600000
 3,basedata.communication,1,1,1,1,18,5.0,35,cute-color,spotify,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704171600000
 4,inversion,1,1,1,1,33,30.0,341,cute-color,método hit/lacra,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704171600000
 5,inversion,1,1,1,1,33,3.0,341,cute-color,método pedidos,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704322480770
 7,transporte,1,1,1,1,34,4.0,31,cute-color,bus angie,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704322562605
-8,alimentos,1,1,1,1,36,8.0,97,cute-color,picarones x2,,"{"""":null,""longitude"":null,""pictures"":null}",,1704329858234
+8,alimentos,1,1,1,1,36,8.0,97,cute-color,picarones x2,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704329858234
 9,transporte,1,1,1,1,34,14.2,31,cute-color,ger back home,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704258000000
 10,atom store,2,1,1,1,37,35.0,245,cute-color,foco smart,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704383313907
 12,familia,1,1,1,1,35,12.3,48,cute-color,recibos casa,,"{""latitude"":null,""longitude"":null,""pictures"":null}",,1704394096111
@@ -821,4 +821,15 @@
 835,neko,1,1,1,1,38,40.0,354,cute-color,regalo ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740632400000
 836,Kia atom,1,1,1,1,39,100.0,116,cute-color,choque - repuestos ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740632400000
 837,win,1,1,1,1,25,40.0,203,cute-color,metropolitano,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740632400000
-838,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740752850670
+838,win,1,1,1,1,25,14.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740752850670
+839,basedata.gift,1,1,1,1,17,360.0,34,cute-color,carrion chito,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740782262069
+840,basedata.communication,1,1,1,1,18,32.9,35,cute-color,entel,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740782283253
+841,basedata.gift,1,1,1,1,17,50.0,34,cute-color,regale a mama,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740782533262
+842,entretenimiento,1,1,1,1,32,2.5,66,cute-color,footing,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740718800000
+844,neko,1,1,1,1,38,250.0,354,cute-color,pague ropa liz,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740863115959
+845,neko,1,1,1,1,38,20.0,354,cute-color,pollada,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740863202056
+846,basedata.education,1,1,1,1,24,916.2,40,cute-color,utp - título ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740890957937
+847,neko,1,1,1,1,38,96.0,354,cute-color,enemys house,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740805200000
+848,neko,1,1,1,1,38,20.5,354,cute-color,transporte - barranco,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740805200000
+849,neko,1,1,1,1,38,2.2,354,cute-color,bebida,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740805200000
+850,alimentos,1,1,1,1,36,2.2,97,cute-color,bebida,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740805200000
