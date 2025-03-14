@@ -841,3 +841,40 @@ id,name,bill_type,account_id,member_id,account_book_id,category_id,money,icon,ic
 856,familia,1,1,1,1,35,31.0,48,cute-color,metro,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740891600000
 857,neko,1,1,1,1,38,18.0,354,cute-color,taxi comas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740891600000
 858,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741020597423
+859,basedata.education,1,1,1,1,24,18.5,40,cute-color,chat gpt,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741020950582
+860,entretenimiento,1,1,1,1,32,72.0,66,cute-color,zep,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1740978000000
+861,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741132253932
+862,basedata.gift,1,1,1,1,17,10.0,34,cute-color,donación gato mary,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741141536647
+863,alimentos,1,1,1,1,36,2.0,97,cute-color,galletas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741142093554
+864,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741150800000
+865,win,1,1,1,1,25,50.0,203,cute-color,metropolitano,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741237200000
+866,entretenimiento,1,1,1,1,32,25.6,66,cute-color,footing cc,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741150800000
+867,win,1,1,1,1,25,14.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741305905817
+868,entretenimiento,1,1,1,1,32,55.0,66,cute-color,estadio good,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741237200000
+869,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741323600000
+870,familia,1,1,1,1,35,4.5,48,cute-color,granola ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741323600000
+871,neko,1,1,1,1,38,3.0,354,cute-color,helado,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741323600000
+872,Kia atom,1,1,1,1,39,16.0,116,cute-color,choque - pasajes 50,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741410000000
+873,neko,1,1,1,1,38,4.0,354,cute-color,bus,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741410000000
+874,familia,1,1,1,1,35,0.0,48,cute-color,bus,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741410000000
+875,neko,1,1,1,1,38,13.0,354,cute-color,taxi,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741410000000
+876,neko,1,1,1,1,38,4.5,354,cute-color,bus,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741496400000
+877,familia,1,1,1,1,35,4.5,48,cute-color,mango,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741496400000
+878,alimentos,1,1,1,1,36,5.5,97,cute-color,bebida,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741496400000
+879,neko,1,1,1,1,38,7.0,354,cute-color,caldo de gallina,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741496400000
+880,alimentos,1,1,1,1,36,7.0,97,cute-color,caldo de gallina,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741496400000
+881,basedata.gift,1,1,1,1,17,2.5,34,cute-color,sublime mama,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741496400000
+882,neko,1,1,1,1,38,2.5,354,cute-color,sublime ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741496400000
+883,alimentos,1,1,1,1,36,2.5,97,cute-color,queque,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741496400000
+884,neko,1,1,1,1,38,17.0,354,cute-color,taxi casa - comas,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741496400000
+885,neko,1,1,1,1,38,14.5,354,cute-color,regale pasajes,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741496400000
+886,win,1,1,1,1,25,18.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741582800000
+887,masoneria,1,1,1,1,13,1.0,441,cute-color,hospitalario,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741582800000
+888,entretenimiento,1,1,1,1,32,77.2,66,cute-color,call of duty ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741754317083
+889,win,1,1,1,1,25,13.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741754348970
+890,basedata.gift,1,1,1,1,17,360.0,34,cute-color,gamor-chito,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741754358293
+891,win,1,1,1,1,25,14.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741755600000
+892,transporte,1,1,1,1,34,32.0,31,cute-color,taxi cumple tío Alberto,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741755600000
+893,familia,1,1,1,1,35,10.0,48,cute-color,comida gato,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741898698728
+894,familia,1,1,1,1,35,20.0,48,cute-color,casa comida ,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741898722309
+895,win,1,1,1,1,25,14.0,203,cute-color,almuerzo + pasaje,,"{""latitude"":null,""longitude"":null,""pictures"":null,""attachBillIds"":null}",,1741898749355
